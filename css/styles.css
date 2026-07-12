@@ -727,9 +727,9 @@
         }
 
         .project-image1 {
-            background-image: url("../imgs/mobile-app.jpg");
+            background-image: url("../imgs/dashboard.png");
             width: 100%;
-            height: 10rem;
+            height: 20rem;
             background-size: cover;
             object-fit: cover;
             background-repeat: no-repeat;
@@ -737,9 +737,9 @@
         }
 
         .project-image2 {
-            background-image: url("../imgs/data-tracking.jpg");
+            background-image: url("../imgs/listings.png");
             width: 100%;
-            height: 10rem;
+            height: 20rem;
             background-size: cover;
             object-fit: cover;
             background-repeat: no-repeat;
@@ -747,9 +747,9 @@
         }
 
         .project-image3 {
-            background-image: url("../imgs/web-design.jpg");
+            background-image: url("../imgs/react-musicapp.png");
             width: 100%;
-            height: 10rem;
+            height: 20rem;
             background-size: cover;
             object-fit: cover;
             background-repeat: no-repeat;
